@@ -14,8 +14,8 @@ export const Work = [
         description:"With featured and recent posts, categories.",
         tags:["react","graphql"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"",
+        github:"https://github.com/mallikarai05/Blog-website"
         
     },
 
